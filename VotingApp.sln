@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VotingApp", "VotingApp\VotingApp.vcxproj", "{767BDBF0-AD3E-414C-96E0-CB6B17C91D25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{767BDBF0-AD3E-414C-96E0-CB6B17C91D25}.Debug|x64.ActiveCfg = Debug|x64
+		{767BDBF0-AD3E-414C-96E0-CB6B17C91D25}.Debug|x64.Build.0 = Debug|x64
+		{767BDBF0-AD3E-414C-96E0-CB6B17C91D25}.Debug|x86.ActiveCfg = Debug|Win32
+		{767BDBF0-AD3E-414C-96E0-CB6B17C91D25}.Debug|x86.Build.0 = Debug|Win32
+		{767BDBF0-AD3E-414C-96E0-CB6B17C91D25}.Release|x64.ActiveCfg = Release|x64
+		{767BDBF0-AD3E-414C-96E0-CB6B17C91D25}.Release|x64.Build.0 = Release|x64
+		{767BDBF0-AD3E-414C-96E0-CB6B17C91D25}.Release|x86.ActiveCfg = Release|Win32
+		{767BDBF0-AD3E-414C-96E0-CB6B17C91D25}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9E4396D-3765-495D-B0A1-27B4855931A4}
+	EndGlobalSection
+EndGlobal
